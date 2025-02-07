@@ -1,2 +1,2 @@
-# C-Bubble-Sort
+# CPP-Bubble-Sort
 A bubble sort function written in C++
